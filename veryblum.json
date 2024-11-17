@@ -161,6 +161,25 @@
       "title": "whatscryptodex",
       "content": "DEXXX",
       "url": ""
+    },
+    {
+      "type": "youtubecode",
+      "title": "understandinggasfees",
+      "content": "CRYPTOGAS",
+      "url": ""
+    },
+    {
+      "type": "youtubecode",
+      "title": "whatisslippage",
+      "content": "CRYPTOBUZZ",
+      "url": ""
+    },
+{
+      "type": "youtubecode",
+      "title": "whatisnextfordefi",
+      "content": "BLUMNOW",
+      "url": ""
     }
+
   ]
 }
